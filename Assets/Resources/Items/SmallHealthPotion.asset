@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b63583bb4660664bb26fdc236012d83, type: 3}
+  m_Name: SmallHealthPotion
+  m_EditorClassIdentifier: 
+  _id: 54d3554a-a5d4-421a-b58d-f8efbd0ec534
+  Name: Small Health Potion
+  Sprite: {fileID: 1982470820, guid: ba00d2cc9cfe3aa4dbabe584112b29a8, type: 3}
+  Description: 
+  IsStackable: 1
+  util: 1

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64653567fcaaeb84bb269eab463b1340, type: 3}
+  m_Name: IceArrowAbility
+  m_EditorClassIdentifier: 
+  coolDownTime: 13
+  projectile: {fileID: 3148825385760297859, guid: 3d0034b702a6ef842b40a2e0075cdc6a,
+    type: 3}

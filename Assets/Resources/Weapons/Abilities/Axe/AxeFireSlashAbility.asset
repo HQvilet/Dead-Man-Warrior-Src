@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: facfed837d737c443a2e138b7156d0e0, type: 3}
+  m_Name: AxeFireSlashAbility
+  m_EditorClassIdentifier: 
+  fireHitAndSlashes:
+  - slash_vfx: {fileID: 7603554870681021726, guid: 1c731b279bc155148a5b5bae9bfd9a14,
+      type: 3}
+    slashQuaternion: {x: 0, y: 0, z: 0}
+  - slash_vfx: {fileID: 7603554870681021726, guid: 1c731b279bc155148a5b5bae9bfd9a14,
+      type: 3}
+    slashQuaternion: {x: 180, y: 180, z: 0}
+  - slash_vfx: {fileID: 4459846193997426115, guid: 553b1283098cd6445a499bd6cae9bb11,
+      type: 3}
+    slashQuaternion: {x: 180, y: 180, z: 0}
+  specialFireSlash: {fileID: 1891336237128931004, guid: d56b24a30353aa44e80b166d631101c6,
+    type: 3}

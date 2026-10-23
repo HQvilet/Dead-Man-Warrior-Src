@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58acd7b16c162da499a1cde23ba2e3b1, type: 3}
+  m_Name: BowFireAbiliity
+  m_EditorClassIdentifier: 
+  _id: a2fe163a-b052-4e01-8f0a-23a4bd4ebb08
+  Name: Fire Arrow
+  Sprite: {fileID: -619079652, guid: d9073f208a25b93469f819a8db2cbc52, type: 3}
+  Description: "Absolutely explosion when hitting enemy \nRequire weapon : Bow\n"
+  IsStackable: 0
+  weaponType: 0
+  ability: {fileID: 11400000, guid: 1b90176d115cc4d4e8eb7123b7a02724, type: 2}

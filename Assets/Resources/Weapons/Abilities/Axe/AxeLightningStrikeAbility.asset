@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 262b6829f4b3bc04384e1678855cb445, type: 3}
+  m_Name: AxeLightningStrikeAbility
+  m_EditorClassIdentifier: 
+  coolDownTime: 7
+  lightningTrailVFX: {fileID: 688284396142899932, guid: 0ceffcc8d9e6b4f459e873230f4d9f4e,
+    type: 3}
+  lightningStrike: {fileID: 8575242000667269783, guid: a7d1c021084d9b14c9eda47334ae19e2,
+    type: 3}
